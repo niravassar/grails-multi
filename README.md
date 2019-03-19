@@ -15,7 +15,7 @@ This fails
 
 - start in grails-multi
 - `gradlew grails-four-rest-api:assemble`
-- `java -jar server\build\libs\grails-four-rest-api-0.1.jar`
+- `java -jar grails-four-rest-api\build\libs\grails-four-rest-api-0.1.jar`
 
 *ERROR*
 
